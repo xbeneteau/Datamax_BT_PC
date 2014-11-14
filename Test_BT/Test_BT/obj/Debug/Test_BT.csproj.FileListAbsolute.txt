@@ -1,0 +1,8 @@
+D:\Developpement\GitHub\Datamax_BT_PC\Test_BT\Test_BT\bin\Debug\Test_BT.exe
+D:\Developpement\GitHub\Datamax_BT_PC\Test_BT\Test_BT\bin\Debug\Test_BT.pdb
+D:\Developpement\GitHub\Datamax_BT_PC\Test_BT\Test_BT\obj\Debug\ResolveAssemblyReference.cache
+D:\Developpement\GitHub\Datamax_BT_PC\Test_BT\Test_BT\obj\Debug\Test_BT.Form1.resources
+D:\Developpement\GitHub\Datamax_BT_PC\Test_BT\Test_BT\obj\Debug\Test_BT.Properties.Resources.resources
+D:\Developpement\GitHub\Datamax_BT_PC\Test_BT\Test_BT\obj\Debug\Test_BT.csproj.GenerateResource.Cache
+D:\Developpement\GitHub\Datamax_BT_PC\Test_BT\Test_BT\obj\Debug\Test_BT.exe
+D:\Developpement\GitHub\Datamax_BT_PC\Test_BT\Test_BT\obj\Debug\Test_BT.pdb
